@@ -82,3 +82,7 @@ h1 {
   box-sizing: border-box;
   box-shadow: 3px 15px 5px black;
 }
+
+#btn {
+  color: red;
+}
