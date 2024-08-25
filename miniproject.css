@@ -1,0 +1,84 @@
+/*miniproject*/
+body {
+  width: 900px;
+  margin: 80px 450px auto;
+  background: #000;
+}
+
+#container {
+  border: solid 10px black;
+  border-radius: 50%;
+  margin-right: 10%;
+  box-shadow: 4px 10px 8px red;
+  background-color: violet;
+  margin-bottom: 20%;
+}
+#text {
+  background-color: brown;
+  color: white;
+  text-align: center;
+  border-radius: 80px;
+  width: 50%;
+  margin-left: 230px;
+  font-size: 20px;
+  font-style: italic;
+  box-sizing: border-box;
+  box-shadow: 4px 10px 66px red;
+}
+h3 {
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+  border-radius: 40px;
+  width: 40%;
+  text-transform: uppercase;
+  margin-left: 30%;
+  margin-bottom: 20px;
+}
+
+h1 {
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+  border-radius: 90%;
+}
+#circle1 {
+  height: 200px;
+  width: 200px;
+  border: 2px solid red;
+  border-radius: 100%;
+  /* display: inline-block; */
+  float: left;
+  margin: 30px;
+  padding: 10px;
+  background-color: red;
+  box-sizing: border-box;
+  box-shadow: 3px 15px 5px black;
+}
+
+#circle2 {
+  height: 200px;
+  width: 200px;
+  border: 2px solid yellow;
+  border-radius: 100%;
+  /* display: inline-block; */
+  float: left;
+  margin: 30px;
+  padding: 10px;
+  background-color: yellow;
+  box-sizing: border-box;
+  box-shadow: 3px 15px 5px black;
+}
+#circle3 {
+  height: 200px;
+  width: 200px;
+  border: 2px solid blue;
+  border-radius: 100%;
+  /* display: inline-block; */
+  float: left;
+  margin: 30px;
+  padding: 10px;
+  background-color: blue;
+  box-sizing: border-box;
+  box-shadow: 3px 15px 5px black;
+}
